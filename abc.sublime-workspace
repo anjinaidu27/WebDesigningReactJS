@@ -1,0 +1,383 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"text",
+				"text-primary"
+			],
+			[
+				"co",
+				"col-md-6"
+			],
+			[
+				"b",
+				"border-info"
+			],
+			[
+				"bg",
+				"bg-dark"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"car",
+				"card-img"
+			],
+			[
+				"ca",
+				"card-img"
+			],
+			[
+				"d",
+				"dropdown-items"
+			],
+			[
+				"drop",
+				"dropdown-menu"
+			],
+			[
+				"dropdown",
+				"dropdown-items"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"htm",
+				"html\thtml"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bootstrap/navbar.html",
+			"settings":
+			{
+				"buffer_size": 2268,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bootstrap/basic.html",
+			"settings":
+			{
+				"buffer_size": 2654,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bootstrap/styles.html",
+			"settings":
+			{
+				"buffer_size": 2324,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Lenovo/Desktop/WebDesigningReactJS",
+		"/C/Users/Lenovo/Desktop/WebDesigningReactJS/bootstrap"
+	],
+	"file_history":
+	[
+		"/C/Users/Lenovo/Desktop/WebDesigningReactJS/bootstrap/styles.html",
+		"/C/Users/Lenovo/Desktop/WebDesigningReactJS/index.html",
+		"/C/Users/Lenovo/Desktop/WebDesigningReactJS/bootstrap/basic.html",
+		"/C/Users/Lenovo/Desktop/WebDesigningReactJS/bootstrap/profile.html",
+		"/C/Users/Lenovo/Desktop/WebDesigningReactJS/bootstrap/navbar.html",
+		"/C/Users/Lenovo/Desktop/WebDesigningReactJS/bootstrap/profile.html.txt",
+		"/C/Users/Lenovo/Desktop/WebDesigningReactJS/text2",
+		"/C/Users/Lenovo/Desktop/WebDesigningReactJS/text1",
+		"/C/Users/Lenovo/Desktop/WebDesigningReactJS/README.md",
+		"/C/Users/Lenovo/Desktop/WebDesigningReactJS/abc.sublime-workspace",
+		"/C/Users/Lenovo/Desktop/WebDesigningReactJS/abc.png",
+		"/C/Users/Lenovo/Desktop/HMTL/card"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bootstrap/navbar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								934,
+								934
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bootstrap/basic.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								754,
+								754
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bootstrap/styles.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								738,
+								738
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "abc.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 324.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
